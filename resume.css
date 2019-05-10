@@ -4,9 +4,6 @@ body {
 body {
  text-align: center
 }
-hr {
- min-width: 80px;
-}
 ul#horizontal-list li{
  display: inline;
 }
