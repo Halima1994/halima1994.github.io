@@ -4,6 +4,6 @@ body {
 body {
  text-align: center
 }
-li {
- text-align: center; list-style: inside
+ul#horizontal-list li{
+ display: inline;
 }
