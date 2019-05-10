@@ -5,7 +5,7 @@ body {
  text-align: center
 }
 hr {
- width="80%";
+ min-width: 80px;
 }
 ul#horizontal-list li{
  display: inline;
